@@ -17,14 +17,22 @@
   <img src="https://img.shields.io/badge/Database-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MS_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
   <img src="https://img.shields.io/badge/Digital_Marketing-FF5733?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 ---
 
 ### 💻 Projects
-- 🎲 **Lottery Game in C** – Random number guessing game  
-- 📝 **GPA Calculator in C** – Console app using functions  
-- 🗄️ **Database Projects** – Projects using MySQL and MS Access  
+Here are some of the projects I’ve built:
+
+- 🎲 **Lottery Game in C** – Random number guessing game.  
+- 📝 **GPA Calculator in C** – Console app using functions.  
+- 🌐 **Personal Website (HTML & CSS)** – Displays my name, roll number, and a beautiful loving line.  
+- 🗄️ **Database Projects** – Small projects using MySQL and MS Access.  
+- 🔢 **Matrix Operations in C** – Includes replacing diagonals, calculating reciprocal matrix, and checking symmetry.  
+
+You can find all projects in my repositories on GitHub!  
 
 ---
 
