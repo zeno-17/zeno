@@ -1,52 +1,63 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Hi 👋, I'm Shaheer Akhtar (zeno-17)</h1>
+<h3 align="center">1st Semester Software Engineering Student | C & C++ Developer | Database Enthusiast | Digital Marketing Learner</h3>
 
-###
+---
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-</div>
+### 🌟 About Me
+- 💻 Passionate about programming and databases  
+- 📊 Learning MS Office & Digital Marketing  
+- 🚀 Always curious to build projects and improve skills  
 
-###
+---
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-</div>
+### 🛠️ Skills
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MS_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
+  <img src="https://img.shields.io/badge/Digital_Marketing-FF5733?style=for-the-badge&logo=google&logoColor=white" />
+</p>
 
-###
+---
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+### 💻 Projects
+- 🎲 **Lottery Game in C** – Random number guessing game  
+- 📝 **GPA Calculator in C** – Console app using functions  
+- 🗄️ **Database Projects** – Projects using MySQL and MS Access  
 
-###
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zeno-17&show_icons=true&theme=radical&count_private=true" />
+</p>
 
-###
+---
+
+### ✨ Fun Stats & Visitors
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=zeno-17.zeno-17" />
+</p>
+
+---
+
+### 📫 Contact Me
+<p align="center">
+  <a href="mailto:shrotrader544@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Shrotrader544-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🎉 Fun Facts
+- I believe in **learning by doing** 🚀  
+- I love turning **small ideas into real projects** 💡  
+- I enjoy **exploring new technologies** and experimenting with code ✨  
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26gssIytJvy1b1THO/giphy.gif" width="300"/>
+</p>
